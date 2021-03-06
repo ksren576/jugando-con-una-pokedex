@@ -1,0 +1,36 @@
+body{
+    background-image: url('../img/fondo2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    background-color:#e6dada8c;
+}
+.titulo{
+    text-align: center;
+    margin: 50px 10px;
+    color: #fff;
+}
+.logo{
+    text-align: left;
+    width: 180px;
+}
+.card {
+    height: 100%;
+}
+
+.perfil-pokemon {
+    width: 50px;
+}
+
+#nombrePok {
+    margin-top: 30px;
+}
+
+#statsPoke {
+    text-transform: capitalize;
+}
+
+#poke-card {
+    margin-bottom: 30px;
+}
